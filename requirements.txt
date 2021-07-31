@@ -1,0 +1,4 @@
+-e .
+aws_cdk.aws_ecs
+aws_cdk.aws_certificatemanager
+cdk_fargate_patterns
